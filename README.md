@@ -34,6 +34,6 @@ load it in vs code
 in terminal (npm install)
 and to st server (npm start)
 
-🧑‍💻 Developer
-Built with love by Tanveer Ahmed
+🧑‍💻 Developed
+by Tanveer Ahmed
 GitHub: github.com/Tanveerkhan29
