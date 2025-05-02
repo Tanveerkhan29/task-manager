@@ -19,4 +19,21 @@ A complete **Task Management** application with secure authentication and modern
 - REST API tested with Postman
 
 ---
+## 💯 how to run locally 
 
+step 1 : download the repo 
+step 2 : open the backend AND 
+pip install -r requirements.txt(pip install django,djangorestframework,djangorestframework-simplejwt,django-cors-headers)
+and then run the server by clicking (python manage.py runserver)
+
+note : " create your own superuser " 
+and for refrence ( username : BlazeWorkshop and password : tanveerkhan323 )
+
+for frontend 
+load it in vs code 
+in terminal (npm install)
+and to st server (npm start)
+
+🧑‍💻 Developer
+Built with love by Tanveer Ahmed
+GitHub: github.com/Tanveerkhan29
