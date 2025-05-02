@@ -25,7 +25,8 @@ TASK-MANAGER/
 
 ## ⚙️ How to Run
 
-### 1. Clone this repo
+### 1. DOWNLOAD this repo
+
 ```bash
 git clone https://github.com/Tanveerkhan29/Task-manager.git
 cd Task-manager
