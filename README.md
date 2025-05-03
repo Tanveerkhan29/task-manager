@@ -24,7 +24,7 @@ Clone/download the repo
 
 Navigate to the backend folder
 
-Run: pip install -r requirements.txt(pip install django, djangorestframewor, djangorestframework-simplejwt, django-cors-headers)
+Run: pip install -r requirements.txt(pip install django, djangorestframework, djangorestframework-simplejwt, django-cors-headers)
 
 
 Start server: python manage.py runserver
