@@ -1,39 +1,45 @@
-# ✅ Task Manager (Full Stack App)
+✅ Task Manager API (Full Stack App)
+A complete task management application with secure authentication and clean frontend UI.
 
-A complete **Task Management** application with secure authentication and modern UI.
+🔧 Tech Stack: Django + Django REST Framework (DRF), JWT (Authentication), React.js (Frontend), SQLite (Database)
 
-### 🔨 Tech Stack:
-- **Backend**: Django + Django REST Framework + JWT
-- **Frontend**: React.js
-- **Auth**: JWT (Login with Token-based auth)
-- **Database**: SQLite
+✨ Features:
 
----
+User Signup & Login (JWT-based authentication)
 
-## ✨ Features
+Create, View, Toggle (complete/incomplete), and Delete personal tasks
 
-- User Signup & Login (JWT auth)
-- Add, View, Toggle, Delete tasks
-- Private tasks per user
-- Clean React UI
-- REST API tested with Postman
+Each user sees only their own tasks
 
----
-## 💯 how to run locally 
+Token-based authentication (secure)
 
-step 1 : download the repo 
-step 2 : open the backend AND 
-pip install -r requirements.txt(pip install django,djangorestframework,djangorestframework-simplejwt,django-cors-headers)
-and then run the server by clicking (python manage.py runserver)
+RESTful API tested using Postman
 
-note : " create your own superuser " 
-and for refrence ( username : BlazeWorkshop and password : tanveerkhan323 )
+Clean and responsive React.js frontend
 
-for frontend 
-load it in vs code 
-in terminal (npm install)
-and to st server (npm start)
+🧪 How to Run Locally:
+Backend:
 
-🧑‍💻 Developed
-by Tanveer Ahmed
+Clone/download the repo
+
+Navigate to the backend folder
+
+Run: pip install -r requirements.txt(pip install django, djangorestframewor, djangorestframework-simplejwt, django-cors-headers)
+
+
+Start server: python manage.py runserver
+
+Create your own superuser: python manage.py createsuperuser
+(Optional Demo Credentials — Username: DEMOUSERNAME | Password: demo1234)
+
+Frontend:
+
+Navigate to the frontend folder
+
+Run: npm install
+
+Start server: npm start
+
+🧑‍💻 Developer: Tanveer Ahmed
 GitHub: github.com/Tanveerkhan29
+
