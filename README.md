@@ -30,7 +30,7 @@ Run: pip install -r requirements.txt(pip install django, djangorestframework, dj
 Start server: python manage.py runserver
 
 Create your own superuser: python manage.py createsuperuser
-(Optional Demo Credentials — Username: DEMOUSERNAME | Password: demo1234)
+(Optional Demo Credentials — Username: DEMOUSERNAME | Password: FORUSER!@#)
 
 Frontend:
 
